@@ -1,0 +1,33 @@
+name: Repo-6 Performance Engine
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 08:30 Iran time
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Requirements
+        run: pip install aiohttp
+
+      - name: Run Repo6
+        run: python repo6.py
+
+      - name: Commit Output
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.txt history.json
+          git commit -m "Daily performance update" || echo "No changes"
+          git push
