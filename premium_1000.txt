@@ -970,7 +970,6 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@167.68.5.248:2087?encryption=none&s
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.248:443/?type=ws&encryption=none&host=backtory.com&path=%20%20 #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.211.102:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@170.114.45.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] # 🔒 [By EbraSha]
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@88.216.68.1:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90 # 🔒 [By EbraSha]
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@159.246.55.171:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@164.38.155.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=%20%20 #🇬🇧 [ Configs by DukeMehdi ] VL-GB
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@109.176.239.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%20%20 #🇬🇧 [ Configs by DukeMehdi ] VL-GB
@@ -998,3 +997,4 @@ trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?type=ws&sni=de1.t
 vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@104.18.109.149:2096?encryption=none&security=tls&sni=sub-13wl9jvfag-mihansa2.data-recive.ir&type=xhttp&host=sub-13wl9jvfag-mihansa2.data-recive.ir&path=/&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#🔥Join+Telegram:@Farah_VPN🟣
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.12.53:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒 [By EbraSha] #DialogProxy
 trojan://NISHIKUITAN222@188.114.96.96:443/?type=tcp&security=tls&allowInsecure=1 #DialogProxy
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.19:443/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&path=%20&security=tls&sni=%20%20 #🌐 [ Configs by DukeMehdi ] VL-XX
